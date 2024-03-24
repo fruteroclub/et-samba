@@ -1,4 +1,9 @@
-# 🏗 Scaffold-ETH 2
+# This project was made with 🏗 Scaffold-ETH 2
+
+## Smart Contract Addresses
+
+* [BambaStake](https://sepolia.scrollscan.dev/address/0x274dbb4932f645bcfea2b83425ff37222871c3ff#code)
+
 
 <h4 align="center">
   <a href="https://docs.scaffoldeth.io">Documentation</a> |
