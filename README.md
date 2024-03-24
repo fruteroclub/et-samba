@@ -1,8 +1,15 @@
 # This project was made with 🏗 Scaffold-ETH 2
 
-## Smart Contract Addresses
+## Smart Contract Address
 
-* [BambaStake](https://sepolia.scrollscan.dev/address/0x274dbb4932f645bcfea2b83425ff37222871c3ff#code)
+* [BambaStake Sepolia Scroll Contract](https://sepolia.scrollscan.dev/address/0x274dbb4932f645bcfea2b83425ff37222871c3ff#code)
+* 0x274dBB4932f645BcFea2b83425FF37222871c3fF
+
+## NEAR BOS
+
+* [BOS Stake Component](https://gist.github.com/ArturVargas/df09fad4ff0f79eda8578b431822449f)
+
+* [BambaSwap Multichain Component](https://gist.github.com/ArturVargas/77491ab260f3a927f6109be87f2f7357)
 
 
 <h4 align="center">
